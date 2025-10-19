@@ -2,8 +2,8 @@
 
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
-import LandingSection from "@/components/sections/Landing";
-import AboutSection from "@/components/sections/About";
+import LandingSection from "@/app/sections/landing/page";
+import AboutSection from "@/app/sections/about/page";
 
 export default function Home() {
   const pathname = usePathname();
@@ -20,9 +20,9 @@ export default function Home() {
   }, [pathname]);
 
   return (
-    <>
+    <main>
       <LandingSection />
       <AboutSection />
-    </>
+    </main>
   );
 }

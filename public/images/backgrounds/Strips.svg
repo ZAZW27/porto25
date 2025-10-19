@@ -1,0 +1,29 @@
+<svg width="1440" height="1011" viewBox="0 0 1440 1011" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_24_191" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="1011">
+<rect width="71" height="1011" fill="#9F6666"/>
+<rect x="728" width="71" height="1011" fill="#9F6666"/>
+<rect x="364" width="71" height="1011" fill="#9F6666"/>
+<rect x="1092" width="71" height="1011" fill="#9F6666"/>
+<rect x="182" width="71" height="1011" fill="#9F6666"/>
+<rect x="910" width="71" height="1011" fill="#9F6666"/>
+<rect x="546" width="71" height="1011" fill="#9F6666"/>
+<rect x="1274" width="71" height="1011" fill="#9F6666"/>
+<rect x="91" width="71" height="1011" fill="#9F6666"/>
+<rect x="819" width="71" height="1011" fill="#9F6666"/>
+<rect x="455" width="71" height="1011" fill="#9F6666"/>
+<rect x="1183" width="71" height="1011" fill="#9F6666"/>
+<rect x="273" width="71" height="1011" fill="#9F6666"/>
+<rect x="1001" width="71" height="1011" fill="#9F6666"/>
+<rect x="637" width="71" height="1011" fill="#9F6666"/>
+<rect x="1365" width="75" height="1011" fill="#9F6666"/>
+</mask>
+<g mask="url(#mask0_24_191)">
+<path d="M1440 1011H1439.14L721 710.161L2.86426 1011H0V0H1440V1011Z" fill="url(#paint0_linear_24_191)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_24_191" x1="720" y1="0" x2="720" y2="1011" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D3D3D3" stop-opacity="0.1"/>
+<stop offset="1" stop-color="#6D6D6D" stop-opacity="0.05"/>
+</linearGradient>
+</defs>
+</svg>
